@@ -1,4 +1,4 @@
-// Contact.js
+
 import React, { useState } from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'; // Assuming you're using FontAwesome
 import { faTrash, faEdit } from '@fortawesome/free-solid-svg-icons';
