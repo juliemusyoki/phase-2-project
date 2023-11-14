@@ -18,7 +18,7 @@ Before you begin, ensure you have met the following requirements:
 
 
 ## Live link
-Deployed Frontend can be accessed here [Blog] (https://phase-2-project-julies-projects-043a37fc.vercel.app/)
+Deployed Frontend can be accessed here [Blog] ()
 
 ## Known Bugs
 - The application images may disappear.
