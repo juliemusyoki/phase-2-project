@@ -1,213 +1,213 @@
 {
-    "contacts": [
-      {
-        "id": 1,
-        "name": "John Doewey",
-        "email": "john@example.com",
-        "phone": "555-555-5555",
-        "image": "./images/maleProfileImage.jpg"
-      },
-      {
-        "id": 3,
-        "name": "Robert Johnson",
-        "email": "robert@example.com",
-        "phone": "555-555-5557",
-        "image": "./images/maleProfileImage.jpg"
-      },
-      {
-        "id": 4,
-        "name": "Emily Davis",
-        "email": "emily@example.com",
-        "phone": "555-555-5558",
-        "image": "./images/femaleProfileImage.jpg"
-      },
-      {
-        "id": 5,
-        "name": "Michael Wilson",
-        "email": "michael@example.com",
-        "phone": "555-555-5559",
-        "image": "./images/maleProfileImage.jpg"
-      },
-      {
-        "id": 6,
-        "name": "Sophia Lee",
-        "email": "sophia@example.com",
-        "phone": "555-555-5560",
-        "image": "./images/femaleProfileImage.jpg"
-      },
-      {
-        "id": 7,
-        "name": "Liam Turner",
-        "email": "liam@example.com",
-        "phone": "555-555-5561",
-        "image": "./images/maleProfileImage.jpg"
-      },
-      {
-        "id": 8,
-        "name": "Olivia Clark",
-        "email": "olivia@example.com",
-        "phone": "555-555-5562",
-        "image": "./images/femaleProfileImage.jpg"
-      },
-      {
-        "id": 9,
-        "name": "Lucas Green",
-        "email": "lucas@example.com",
-        "phone": "555-555-5563",
-        "image": "./images/maleProfileImage.jpg"
-      },
-      {
-        "id": 10,
-        "name": "Ava Harris",
-        "email": "ava@example.com",
-        "phone": "555-555-5564",
-        "image": "./images/femaleProfileImage.jpg"
-      },
-      {
-        "id": 11,
-        "name": "Jackson Allen",
-        "email": "jackson@example.com",
-        "phone": "555-555-5565",
-        "image": "./images/maleProfileImage.jpg"
-      },
-      {
-        "id": 12,
-        "name": "Oliver Yoni",
-        "email": "oliver@example.com",
-        "phone": "555-555-5566",
-        "image": "./images/femaleProfileImage.jpg"
-      },
-      {
-        "id": 13,
-        "name": "Emma Brown",
-        "email": "emma@example.com",
-        "phone": "555-555-5567",
-        "image": "./images/femaleProfileImage.jpg"
-      },
-      {
-        "id": 14,
-        "name": "Noah King",
-        "email": "noah@example.com",
-        "phone": "555-555-5568",
-        "image": "./images/maleProfileImage.jpg"
-      },
-      {
-        "id": 15,
-        "name": "Mia Lewis",
-        "email": "mia@example.com",
-        "phone": "555-555-5569",
-        "image": "./images/femaleProfileImage.jpg"
-      },
-      {
-        "id": 16,
-        "name": "James Martin",
-        "email": "james@example.com",
-        "phone": "555-555-5570",
-        "image": "./images/maleProfileImage.jpg"
-      },
-      {
-        "id": 17,
-        "name": "Lily Harris",
-        "email": "lily@example.com",
-        "phone": "555-555-5571",
-        "image": "./images/femaleProfileImage.jpg"
-      },
-      {
-        "id": 18,
-        "name": "Logan Wilson",
-        "email": "logan@example.com",
-        "phone": "555-555-5572",
-        "image": "./images/maleProfileImage.jpg"
-      },
-      {
-        "id": 19,
-        "name": "Chloe Smith",
-        "email": "chloe@example.com",
-        "phone": "555-555-5573",
-        "image": "./images/femaleProfileImage.jpg"
-      },
-      {
-        "id": 20,
-        "name": "Ethan Turner",
-        "email": "ethan@example.com",
-        "phone": "555-555-5574",
-        "image": "./images/maleProfileImage.jpg"
-      },
-      {
-        "id": 21,
-        "name": "Isabella Miller",
-        "email": "isabella@example.com",
-        "phone": "555-555-5575",
-        "image": "./images/femaleProfileImage.jpg"
-      },
-      {
-        "id": 22,
-        "name": "Mason White",
-        "email": "mason@example.com",
-        "phone": "555-555-5576",
-        "image": "./images/maleProfileImage.jpg"
-      },
-      {
-        "id": 23,
-        "name": "Aria Harris",
-        "email": "aria@example.com",
-        "phone": "555-555-5577",
-        "image": "./images/femaleProfileImage.jpg"
-      },
-      {
-        "id": 24,
-        "name": "Carter Davis",
-        "email": "carter@example.com",
-        "phone": "555-555-5578",
-        "image": "./images/maleProfileImage.jpg"
-      },
-      {
-        "id": 25,
-        "name": "Grace Johnson",
-        "email": "grace@example.com",
-        "phone": "555-555-5579",
-        "image": "./images/femaleProfileImage.jpg"
-      },
-      {
-        "id": 26,
-        "name": "Miles Brown",
-        "email": "miles@example.com",
-        "phone": "555-555-5580",
-        "image": "./images/maleProfileImage.jpg"
-      },
-      {
-        "id": 27,
-        "name": "Avery Green",
-        "email": "avery@example.com",
-        "phone": "555-555-5581",
-        "image": "./images/femaleProfileImage.jpg"
-      },
-      {
-        "id": 28,
-        "name": "Owen Clark",
-        "email": "owen@example.com",
-        "phone": "555-555-5582",
-        "image": "./images/maleProfileImage.jpg"
-      },
-      {
-        "id": 29,
-        "name": "Madison King",
-        "email": "madison@example.com",
-        "phone": "555-555-5583",
-        "image": "./images/femaleProfileImage.jpg"
-      },
-      {
-        "id": 30,
-        "name": "Elijah Harris Jr",
-        "email": "elijah@example.com",
-        "phone": "555-555-5584",
-        "image": "./images/maleProfileImage.jpg"
-      },
-      {
-        "id": 31,
-        "name": "Ann Hatie",
-        "email": "ann@example.com",
-        "phone": "555-098-0987"
-      }
-    ]
-  }
+  "contacts": [
+    {
+      "id": 1,
+      "name": "John Doewey",
+      "email": "john@example.com",
+      "phone": "555-555-5555",
+      "image": "./images/maleProfileImage.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Robert Johnson",
+      "email": "robert@example.com",
+      "phone": "555-555-5557",
+      "image": "./images/maleProfileImage.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Emily Davis",
+      "email": "emily@example.com",
+      "phone": "555-555-5558",
+      "image": "./images/femaleProfileImage.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Michael Wilson",
+      "email": "michael@example.com",
+      "phone": "555-555-5559",
+      "image": "./images/maleProfileImage.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Sophia Lee",
+      "email": "sophia@example.com",
+      "phone": "555-555-5560",
+      "image": "./images/femaleProfileImage.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Liam Turner",
+      "email": "liam@example.com",
+      "phone": "555-555-5561",
+      "image": "./images/maleProfileImage.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Olivia Clark",
+      "email": "olivia@example.com",
+      "phone": "555-555-5562",
+      "image": "./images/femaleProfileImage.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Lucas Green",
+      "email": "lucas@example.com",
+      "phone": "555-555-5563",
+      "image": "./images/maleProfileImage.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Ava Harris",
+      "email": "ava@example.com",
+      "phone": "555-555-5564",
+      "image": "./images/femaleProfileImage.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Jackson Allen",
+      "email": "jackson@example.com",
+      "phone": "555-555-5565",
+      "image": "./images/maleProfileImage.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Oliver Yoni",
+      "email": "oliver@example.com",
+      "phone": "555-555-5566",
+      "image": "./images/femaleProfileImage.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Emma Brown",
+      "email": "emma@example.com",
+      "phone": "555-555-5567",
+      "image": "./images/femaleProfileImage.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Noah King",
+      "email": "noah@example.com",
+      "phone": "555-555-5568",
+      "image": "./images/maleProfileImage.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Mia Lewis",
+      "email": "mia@example.com",
+      "phone": "555-555-5569",
+      "image": "./images/femaleProfileImage.jpg"
+    },
+    {
+      "id": 16,
+      "name": "James Martin",
+      "email": "james@example.com",
+      "phone": "555-555-5570",
+      "image": "./images/maleProfileImage.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Lily Harris",
+      "email": "lily@example.com",
+      "phone": "555-555-5571",
+      "image": "./images/femaleProfileImage.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Logan Wilson",
+      "email": "logan@example.com",
+      "phone": "555-555-5572",
+      "image": "./images/maleProfileImage.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Chloe Smith",
+      "email": "chloe@example.com",
+      "phone": "555-555-5573",
+      "image": "./images/femaleProfileImage.jpg"
+    },
+    {
+      "id": 20,
+      "name": "Ethan Turner",
+      "email": "ethan@example.com",
+      "phone": "555-555-5574",
+      "image": "./images/maleProfileImage.jpg"
+    },
+    {
+      "id": 21,
+      "name": "Isabella Miller",
+      "email": "isabella@example.com",
+      "phone": "555-555-5575",
+      "image": "./images/femaleProfileImage.jpg"
+    },
+    {
+      "id": 22,
+      "name": "Mason White",
+      "email": "mason@example.com",
+      "phone": "555-555-5576",
+      "image": "./images/maleProfileImage.jpg"
+    },
+    {
+      "id": 23,
+      "name": "Aria Harris",
+      "email": "aria@example.com",
+      "phone": "555-555-5577",
+      "image": "./images/femaleProfileImage.jpg"
+    },
+    {
+      "id": 24,
+      "name": "Carter Davis",
+      "email": "carter@example.com",
+      "phone": "555-555-5578",
+      "image": "./images/maleProfileImage.jpg"
+    },
+    {
+      "id": 25,
+      "name": "Grace Johnson",
+      "email": "grace@example.com",
+      "phone": "555-555-5579",
+      "image": "./images/femaleProfileImage.jpg"
+    },
+    {
+      "id": 26,
+      "name": "Miles Brown",
+      "email": "miles@example.com",
+      "phone": "555-555-5580",
+      "image": "./images/maleProfileImage.jpg"
+    },
+    {
+      "id": 27,
+      "name": "Avery Green",
+      "email": "avery@example.com",
+      "phone": "555-555-5581",
+      "image": "./images/femaleProfileImage.jpg"
+    },
+    {
+      "id": 28,
+      "name": "Owen Clark",
+      "email": "owen@example.com",
+      "phone": "555-555-5582",
+      "image": "./images/maleProfileImage.jpg"
+    },
+    {
+      "id": 29,
+      "name": "Madison King",
+      "email": "madison@example.com",
+      "phone": "555-555-5583",
+      "image": "./images/femaleProfileImage.jpg"
+    },
+    {
+      "id": 30,
+      "name": "Elijah Harris Jr",
+      "email": "elijah@example.com",
+      "phone": "555-555-5584",
+      "image": "./images/maleProfileImage.jpg"
+    },
+    {
+      "id": 31,
+      "name": "Ann Hatie",
+      "email": "ann@example.com",
+      "phone": "555-098-0987"
+    }
+  ]
+}
