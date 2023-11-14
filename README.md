@@ -18,7 +18,7 @@ Before you begin, ensure you have met the following requirements:
 
 
 ## Live link
-Deployed Frontend can be accessed here [Blog] ()
+Deployed Frontend can be accessed here [Blog] ( http://localhost:3001/contact-manager)
 
 ## Known Bugs
 - The application images may disappear.
