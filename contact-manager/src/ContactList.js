@@ -7,7 +7,7 @@ const ContactList = () => {
 
   useEffect(() => {
     // Fetch contacts from the json-server API
-    axios.get('http://localhost:3000/contacts')  // Adjust the URL as needed
+    axios.get('http://localhost:3000/contacts')  
       .then((response) => {
         setContacts(response.data);
       })
