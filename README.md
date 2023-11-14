@@ -1,6 +1,6 @@
 #### The app is a simple Contact Manager React App, 11/14/2023
 #### **By Juliet Musyoki**
-## Project Descriptio
+## Project Description
     Contact Manager is a simple web application that allows users to manage their contacts. It provides the ability to add, edit, and delete contacts, along with basic contact information such as name, email, and phone number.
 
 ## Features
