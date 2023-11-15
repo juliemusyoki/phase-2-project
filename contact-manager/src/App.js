@@ -11,7 +11,7 @@ const App = () => {
 
   useEffect(() => {
     // Fetch contacts from json-server API on component mount
-    axios.get('http://localhost:3000/contacts') // Update the URL accordingly
+    axios.get('https://phase-2-project-1ndb.onrender.com//contacts') // Update the URL accordingly
       .then((response) => {
         setContactData(response.data);
       })

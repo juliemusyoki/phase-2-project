@@ -7,7 +7,7 @@ const ContactList = () => {
 
   useEffect(() => {
     // Fetch contacts from the json-server API
-    axios.get('http://localhost:3000/contacts')  
+    axios.get('https://phase-2-project-1ndb.onrender.com//contacts')  
       .then((response) => {
         setContacts(response.data);
       })
@@ -18,7 +18,7 @@ const ContactList = () => {
 
   const handleDelete = (contactId) => {
     // Delete contact from the json-server API
-    axios.delete(`http://localhost:3000/contacts/${contactId}`)
+    axios.delete(`https://phase-2-project-1ndb.onrender.com//contacts/${contactId}`)
       .then(() => {
         // Update local state after successful deletion
         setContacts((prevContacts) => prevContacts.filter((contact) => contact.id !== contactId));
@@ -30,7 +30,7 @@ const ContactList = () => {
 
   const handleEdit = (contactId, updatedData) => {
     // Update contact in the json-server API
-    axios.put(`http://localhost:3000/contacts/${contactId}`, updatedData)
+    axios.put(`https://phase-2-project-1ndb.onrender.com//contacts/${contactId}`, updatedData)
       .then(() => {
         // Update local state after successful update
         setContacts((prevContacts) =>
