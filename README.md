@@ -20,6 +20,13 @@ Before you begin, ensure you have met the following requirements:
 ## Live link
 Deployed Frontend can be accessed here [Blog] (https://phase-2-project-l25570uzo-julies-projects-043a37fc.vercel.app/)
 
+# Contact Manager Backend
+
+This is the deployed backend for the Contact Manager app.
+
+- **API Base URL:** [https://contact-manager-g0qp.onrender.com](https://contact-manager-g0qp.onrender.com)
+- **Contacts Endpoint:** [https://contact-manager-g0qp.onrender.com/contacts](https://contact-manager-g0qp.onrender.com/contacts)
+
 ## Known Bugs
 - The application images may disappear.
 - Be sure to turn off any ad blockers for the app to be hosted.
