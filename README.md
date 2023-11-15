@@ -22,6 +22,7 @@ Deployed Frontend can be accessed here [Blog] (https://phase-2-project-l25570uzo
 
 ## Known Bugs
 - The application images may disappear.
+- Be sure to turn off any ad blockers for the app to be hosted.
 - Otherwise, the application works perfectly well with no bugs.
 
 ## Technologies used
