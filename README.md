@@ -24,8 +24,8 @@ Deployed Frontend can be accessed here [Blog] (https://phase-2-project-l25570uzo
 
 This is the deployed backend for the Contact Manager app.
 
-- **API Base URL:** [https://contact-manager-g0qp.onrender.com](https://contact-manager-g0qp.onrender.com)
-- **Contacts Endpoint:** [https://contact-manager-g0qp.onrender.com/contacts](https://contact-manager-g0qp.onrender.com/contacts)
+- **API Base URL:** [https://contact-manager-771l.onrender.com/](https://contact-manager-771l.onrender.com/)
+- **Contacts Endpoint:** [https://contact-manager-771l.onrender.com/contacts](https://contact-manager-771l.onrender.com/contacts)
 
 ## Known Bugs
 - The application images may disappear.
