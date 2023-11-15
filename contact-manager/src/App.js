@@ -11,7 +11,7 @@ const App = () => {
 
   useEffect(() => {
     // Fetch contacts from json-server API on component mount
-    axios.get('https://phase-2-project-1ndb.onrender.com//contacts') // Update the URL accordingly
+    axios.get('https://phase-2-project-1ndb.onrender.com/contacts') // Update the URL accordingly
       .then((response) => {
         setContactData(response.data);
       })
@@ -22,7 +22,7 @@ const App = () => {
 
   const handleAddContact = (newContact) => {
     // Update json-server API and then update the local state
-    axios.post('http://localhost:3000/contacts', newContact)
+    axios.post('https://phase-2-project-1ndb.onrender.com/contacts', newContact)
       .then((response) => {
         setContactData((prevContacts) => [...prevContacts, response.data]);
       })
@@ -33,7 +33,7 @@ const App = () => {
 
   const handleDeleteContact = (contactId) => {
     // Update json-server API and then update the local state
-    axios.delete(`http://localhost:3000/contacts/${contactId}`)
+    axios.delete(`https://phase-2-project-1ndb.onrender.com/contacts/${contactId}`)
       .then(() => {
         setContactData((prevContacts) =>
           prevContacts.filter((contact) => contact.id !== contactId)
@@ -46,7 +46,7 @@ const App = () => {
 
   const handleEditContact = (contactId, updatedData) => {
     // Update json-server API and then update the local state
-    axios.put(`http://localhost:3000/contacts/${contactId}`, updatedData)
+    axios.put(`https://phase-2-project-1ndb.onrender.com/contacts/${contactId}`, updatedData)
       .then(() => {
         setContactData((prevContacts) =>
           prevContacts.map((contact) =>
