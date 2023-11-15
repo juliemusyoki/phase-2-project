@@ -18,7 +18,7 @@ Before you begin, ensure you have met the following requirements:
 
 
 ## Live link
-Deployed Frontend can be accessed here [Blog] ( http://localhost:3001/contact-manager)
+Deployed Frontend can be accessed here [Blog] (https://phase-2-project-l25570uzo-julies-projects-043a37fc.vercel.app/)
 
 ## Known Bugs
 - The application images may disappear.
